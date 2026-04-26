@@ -1,2 +1,13 @@
-# svilia_recon.py
-Advanced reconnaissance and port scanning tool developed by Svilia Hack Team for security researchers
+# 🛡️ Svilia Recon Scanner v1.0
+Developed by **Svilia Hack Team**
+
+### 🚀 Features
+- Fast Port Scanning
+- Service Identification
+- Lightweight Python Code
+
+### ⚠️ Disclaimer
+This tool is for educational purposes and authorized security testing only.
+
+### 📱 Contact
+Follow us on Twitter for more updates!
